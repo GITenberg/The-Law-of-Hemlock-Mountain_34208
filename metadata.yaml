@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36873
     wikipedia: http://www.gutenberg.org/browse/authors/b#a2520
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34208#The-Law-of-Hemlock-Mountain
 gutenberg_issued: '2010-11-04'
 gutenberg_type: Text
 identifiers:
